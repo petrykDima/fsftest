@@ -3,7 +3,7 @@
     "apps": [],
     "details":[{
       "appID":"C26TRGGF84.SimpleLifeMedia.FreeStuffFinder-Staging",
-      "paths":[*]
+      "paths":[petrykdima.github.io/*]
     }]
   }
 }
