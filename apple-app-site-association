@@ -1,9 +1,13 @@
 {
-  "applinks":{
+  "applinks": {
     "apps": [],
-    "details":[{
-      "appID":"C26TRGGF84.SimpleLifeMedia.FreeStuffFinder-Staging",
-      "paths":[petrykdima.github.io/*]
-    }]
+    "details": [
+      {
+        "appID": "C26TRGGF84.SimpleLifeMedia.FreeStuffFinder-Staging",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
   }
 }
